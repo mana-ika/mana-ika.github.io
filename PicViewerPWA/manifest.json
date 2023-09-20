@@ -2,7 +2,7 @@
   "name": "PicViewerPWA",
   "short_name": "PicViewer",
   "description": "A simple PWA that shows an image",
-  "start_url": "/",
+  "start_url": "/PicViewerPWA/",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
