@@ -3,7 +3,7 @@
   "short_name": "PicViewer",
   "description": "A simple PWA that shows an image",
   "start_url": "/PicViewerPWA/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "icons": [
     {
