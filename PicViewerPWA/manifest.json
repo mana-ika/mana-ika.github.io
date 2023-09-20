@@ -3,7 +3,7 @@
   "short_name": "PicViewer",
   "description": "A simple PWA that shows an image",
   "start_url": "/PicViewerPWA/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "icons": [
     {
@@ -16,7 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "navigationUI": "#FFFFFF",
-  "theme_color": "#FFFFFF"
+  ]
 }
