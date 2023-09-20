@@ -17,5 +17,6 @@
       "type": "image/png"
     }
   ],
-  "navigationUI": "#FFFFFF"
+  "navigationUI": "#FFFFFF",
+  "theme_color": "#FFFFFF"
 }
